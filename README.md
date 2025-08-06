@@ -17,7 +17,7 @@ A data analysis project that performs clustering on global unemployment data to 
 - Visualization of clustering results for analytical insights.
 - Export of clustered results to CSV for further usage.
 
-## Live Demo (optional)
+## Live Demo
 This project is intended to be run locally in a Jupyter Notebook environment.
 
 ## Installation and Usage (Local Setup)
