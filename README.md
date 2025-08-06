@@ -40,10 +40,10 @@ This project is intended to be run locally in a Jupyter Notebook environment.
 5. Run all cells to see data preprocessing, clustering, and visualization results.
 
 ## Future Improvements
-- Add Elbow Method to determine optimal cluster count dynamically.
-- Incorporate more socioeconomic indicators (GDP, HDI) for multi-factor clustering.
-- Develop a web-based visualization dashboard for interactive exploration.
-- Deploy the notebook as a Streamlit web application for easier access.
+- [ ] Add Elbow Method to determine optimal cluster count dynamically.
+- [ ] Incorporate more socioeconomic indicators (GDP, HDI) for multi-factor clustering.
+- [ ] Develop a web-based visualization dashboard for interactive exploration.
+- [ ] Deploy the notebook as a Streamlit web application for easier access.
 
 ## Contact & Collaboration
 Interested in collaborating or enhancing this project?
